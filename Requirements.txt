@@ -1,0 +1,5 @@
+## Dependencies:
+
+Matplotlib
+open-cv
+pandas
